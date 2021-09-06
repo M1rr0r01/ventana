@@ -1,1 +1,1 @@
-# HELLO I'M M1rr0r01
+# python3 python-aplication.py
