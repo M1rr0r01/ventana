@@ -23,7 +23,10 @@ tpas.pack()
 def ingresar():
     if user.get()=="jes" and pas.get()=="jes":
          veni.destroy()
-         import module
+         veni2=Tk()
+         veni2.title("Bienvenido")
+         veni2.geometry("200x150")
+                       
     else:
          veni.title("Incorrecto")
 
